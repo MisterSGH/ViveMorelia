@@ -1,0 +1,61 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Vive Morelia</string>
+
+    <!-- Screens titles -->
+    <string name="categories">Categorías</string>
+    <string name="places">Lugares</string>
+    <string name="details">Detalles</string>
+
+    <!-- Buttons -->
+    <string name="back">Regresar</string>
+    <string name="view_details">Ver detalles</string>
+
+    <!-- Categories examples -->
+    <string name="cat_history">Historia</string>
+    <string name="cat_food">Gastronomía</string>
+    <string name="cat_nature">Naturaleza</string>
+    <string name="cat_museums">Museos</string>
+    <string name="cat_recreation">Recreación</string>
+
+    <!-- Places (example data matching your MoreliaData) -->
+    <string name="place_cathedral">Catedral de Morelia</string>
+    <string name="place_aqueduct">Acueducto</string>
+    <string name="place_rosa">Templo de La Rosa</string>
+    <string name="place_sweets">Museo del Dulce</string>
+    <string name="place_zoo">Zoológico Benito Juárez</string>
+
+    <!-- Place descriptions -->
+    <string name="desc_cathedral">
+        La Catedral de Morelia es uno de los monumentos más emblemáticos de la ciudad,
+        famosa por su arquitectura barroca y su iluminación nocturna.
+    </string>
+
+    <string name="desc_aqueduct">
+        El Acueducto, con más de 250 arcos, es una de las estructuras coloniales
+        más representativas y un símbolo de la ciudad.
+    </string>
+
+    <string name="desc_rosa">
+        El Templo de La Rosa es un bello recinto religioso del siglo XVIII
+        conocido por su arquitectura y su presencia histórica.
+    </string>
+
+    <string name="desc_sweets">
+        El Museo del Dulce es un lugar dedicado a la historia y proceso del
+        tradicional dulce moreliano, con muestras y degustaciones.
+    </string>
+
+    <string name="desc_zoo">
+        El Zoológico Benito Juárez es uno de los más grandes de México,
+        con cientos de especies y áreas recreativas.
+    </string>
+
+    <!-- Detail Screen -->
+    <string name="category_label">Categoría:</string>
+    <string name="location_label">Ubicación:</string>
+    <string name="description_label">Descripción:</string>
+
+    <!-- Generic -->
+    <string name="unknown">Desconocido</string>
+</resources>
